@@ -1,0 +1,21 @@
+EMNE:
+Din kontingentbetaling er afvist
+
+
+Kære {{navn}} 
+
+Først og fremmest tusind tak fordi du er medlem af Dansk V. Forening. Den er vi evigt taknemmelig for. Uden vores medlemmer, ingen DVF.
+
+Vi har den {{dato}} forsøgt at opkræve dit kontingent. Dette er ikke lykkedes, da du har afvist betalingen i din MobilePay app. 
+
+Dette er vi selvfølgelig kede af, og vi håber at du kunne tænke dig at fortsætte dit medlemskab, da du er med til at gøre en stor forskel for vores arbejde.
+Derfor har vi sat betalingsaftalen til at opkræve igen om 7 dage, den {{dato+7}}.
+  
+Hvis du betaler dit kontingent årligt, men synes, at dét er for stor en mundfuld, tilbyder vi også at du kan betale dit kontingent hver måned i stedet. Hvis du ønsker at betale på månedsbasis, svar da tilbage på denne E-mail. 
+
+Hvis du har spørgsmål, er du mere end velkommen til at skrive tilbage på denne E-mail.
+
+På forhånd tak. 
+
+Bedste grønne hilsner
+{{Mailsignatur}}

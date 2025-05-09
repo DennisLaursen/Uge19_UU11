@@ -1,0 +1,21 @@
+EMNE:
+Din betalingsaftale til Dansk V. Forening er blevet lukket
+
+
+Kære {{navn}}
+
+Først og fremmest tusind tak fordi du er medlem af Dansk V. Forening. Den er vi evigt taknemmelig for. Uden vores medlemmer, ingen DVF.
+
+Vi har fået en notifikation om, at din kontingentbetaling, som du betaler via Betalingsservice, er blevet lukket.
+
+Vi håber, at du vil fortsætte dit medlemskab, og genaktivere din Betalingsservice-aftale i dette link:
+https://www.betalingsservice.dk/tilmeld/11803001?customernumber={{medlemsnummer}}&account=reg1234kontonr5678901234
+ 
+Hvis du betaler dit kontingent årligt, men synes, at dét er for stor en mundfuld, tilbyder vi også at du kan betale dit kontingent hver måned i stedet. Hvis du ønsker at betale på månedsbasis, svar da tilbage på denne E-mail. 
+
+Hvis du har spørgsmål, er du mere end velkommen til at skrive tilbage på denne E-mail.
+
+På forhånd tak. 
+
+Bedste grønne hilsner
+{{Mailsignatur}}

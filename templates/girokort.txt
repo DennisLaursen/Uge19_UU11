@@ -1,0 +1,24 @@
+EMNE:
+Vi mangler betaling for dit kontingent
+
+
+Kære {{navn}}
+
+Først og fremmest tusind tak fordi du er medlem af Dansk V. Forening. Den er vi evigt taknemmelig for. Uden vores medlemmer, ingen DVF.
+
+Vi sendte tilbage i {{måned}} {{år}} et girokort til dig, med betaling af dit kontingent. Da vi endnu ikke har modtaget betaling for dit kontingent, vil vi høre, om du har modtaget girokortet med posten?
+Girokortet er sendt til følgende adresse:
+{{navn}}
+Clara Frijs Pærevej 1337
+3390 Kattested
+
+Hvis du ikke har modtaget girokortet, eller du har mistet det, kan du finde girokortet i vedhæftede dokument. Hvis vi har sendt girokortet til en forkert adresse, håber vi, at du ved samme lejlighed vil sende os din nye adresse.
+
+Vi håber, at du vil betale dit kontingent inden 14 dage.
+
+Hvis du har spørgsmål, er du mere end velkommen til at skrive tilbage på denne E-mail.
+
+På forhånd tak. 
+
+Bedste grønne hilsner
+{{Mailsignatur}}

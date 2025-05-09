@@ -1,0 +1,19 @@
+EMNE:
+Fornyelse af dit medlemskab af foreningen
+
+
+Kære {{navn}} 
+
+Først og fremmest tusind tak fordi du er medlem af Dansk V. Forening. Den er vi evigt taknemmelig for. Uden vores medlemmer, ingen DVF.
+
+Årsagen til at jeg skriver til dig, er at din seneste kontingentbetaling desværre er blevet afvist. Dette skyldes enten, at dit betalingskort er udløbet eller at du har skiftet bank.
+
+For at du kan fortsætte dit medlemskab, håber vi, at du vil forny din betalingsaftale inden 14 dage via dette unikke link:
+https://minforening.onlinefundraising.dk/payment/update?subscriptionId={{link}}
+
+Hvis du har spørgsmål, er du mere end velkommen til at skrive tilbage på denne E-mail.
+
+På forhånd tak. 
+
+Bedste grønne hilsner
+{{Mailsignatur}}

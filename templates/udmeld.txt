@@ -1,0 +1,24 @@
+EMNE:
+Du udmeldes af Dansk V. Forening
+
+
+Kære {{navn}}
+
+Vi har for nyligt sendt dig en E-mail om at vi ikke kan opkræve dit kontingent.
+
+Da vi ikke har hørt fra dig, eller modtaget betaling for dit kontingent, er vi desværre nødt til at udmelde dig af Dansk V. Forening.
+
+Er du interesseret i atter at blive medlem, kan du få et gratis eksemplar af Melanie Joys bog ”Hvorfor vi elsker hunde, spiser grise og går klædt i køer” med i prisen her:
+https://vegetarisk.dk/bogtilbud-melanie-joy/
+
+Så er du atter med til at støtte vores arbejde for at gøre Danmark grønnere og mere plantebaseret, samt få del i alle vores medlemsfordele.
+
+Hvis du fortsat ønsker at følge vores arbejde på de sociale medier, kan du finde os her:
+• Facebook: https://www.facebook.com/vegetariskforening/
+• Instagram: @vegetariskforening
+• Twitter: @vegetariskDVF
+
+Du ønskes en dejlig dag og på gensyn.
+
+Bedste grønne hilsner
+{{Mailsignatur}}
