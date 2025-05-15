@@ -1,0 +1,6 @@
+﻿Medl.nr.;Navn;E-mail;Medlemskab;Indmeldelsesdato;Betalingskanal;Betalingsfrekvens;Senest fejlede betaling;Status;subscriptionId;Girokort sendt
+1;Anders Nielsen;anders_nielsen19@dkmail.dk;Nedsat;07-10-1997;Kontant;Kvartalsvis;18-02-2025;Ingen betaling;;
+2;Mette Nielsen;mette_nielsen29@dkmail.dk;Standard;10-05-2000;MobilePay;Månedlig;12-04-2025;Rejected;12c4ff58-6fbe-4f13-91e4-5d4293b2ab4d  ;
+3;Thomas Andersen;thomas_andersen41@dkmail.dk;Standard;01-02-2003;Kontant;Årlig;08-03-2025;Ingen betaling;;
+4;Martin Madsen;martin_madsen22@dkmail.dk;Husstand;01-01-2008;MobilePay;Kvartalsvis;24-03-2025;Failed;a1b0c9d7-442e-43aa-9e6f-e451f1b780a3  ;
+5;Martin Larsen;martin_larsen35@dkmail.dk;Standard;01-01-2008;MasterCard;Årlig;27-01-2025;Rejected;8f32a9b1-d3c5-4b9e-9f7e-7b12f8348cf0  ;

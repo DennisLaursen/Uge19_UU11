@@ -35,6 +35,9 @@ Her er det meningen, at koden løber restanterne fra 'restantliste_screenet' lis
 I dette trin, 14 dage efter 1. trin er lavet, skal koden ind og tjekke om de enkelte medlemmer har fornyet deres betalingsaftale. Hvis betalingsaftalen er fornyet, skal den næste betaling rykkes til så hurtig som muligt; og hvis betalingsaftalen ikke er fornyet, skal medlemmet udmeldes, og have sendt en udmeldelsesmail.
 Denne del af koden er jeg i skrivende stund (d. 9/5-25) ikke nået til. Og da meget af dette ligeledes kræver integrationer til et CRM-system, vil jeg ligeledes generere testdata at arbejde med, f.eks. en falsk 0603-fil fra Betalingsservice.
 
+**Opdatering d. 14/5-25:**
+Jeg er i uge 20 givet mig i kast med at forstå REST API og JSON kald, som skal bruges for at hente/skrive data i et browserbaseret CRM-system. Dette er nødvendigt for at kunne lave en fuldautomatisk restantfunktion, da betalingsdata, fornyelseslink m.m. vil ligge i et CRM-system. Jeg har brugt https://mockapi.io/ til at øve JSON kald, og jeg har oprettet et projekt her, som jeg har populeret med testdata (5 restanter i alt) fra min .csv fil: https://mockapi.io/projects/6821b8aa259dad2655b05a0a
+
 # requirements.txt filen
 Jeg har skrevet 'pip freeze' i terminalen, og kopieret teksten ind i requirements.txt filen. Når koden skal køres på en ny computer, skal brugeren skrive 'pip install -r requirements.txt' i terminalen.
 
@@ -60,4 +63,7 @@ Det er bare de firmaer, jeg kan huske på rygradden. Der er også et par stykker
 - Word-dokumentet 'Restanter arbejdsbeskrivelse': Den procesbeskrivelse, jeg har udviklet på mit gamle arbejde (Dansk Vegetarisk Forening), og som er udgangspunktet for denne kodning
 - CS50: https://cs50.harvard.edu/x/2025/
 - Mockaroo: https://www.mockaroo.com/
-- ChatGPT hjælp: https://chatgpt.com/share/6818b817-f640-8005-ba1a-b5bc5bad3813
+- ChatGPT hjælp til indledende trin: https://chatgpt.com/share/6818b817-f640-8005-ba1a-b5bc5bad3813
+- REST API Crash Course: https://youtu.be/qbLc5a9jdXo
+- Mit MockAPI projekt, hvor jeg prøver at hente/skrive test-restantdata: https://mockapi.io/projects/6821b8aa259dad2655b05a0a
+- ChatGPT hjælp til trin 2: https://chatgpt.com/share/6825ca18-e100-8005-8b65-1ebea7157890
